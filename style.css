@@ -1,22 +1,28 @@
 .header {
     background-color: pink;
     color: white;
+    font-size: 50px;
 }
 
 .style-par {
     color: white;
-    background-color: lightpink;
+    background-color: rgb(255, 112, 134);
     font-weight: bold;
+    font-size: 50px;
 }
 
 .list-item {
     color: pink;
     border: 1px solid black;
     display: inline-block;
+    font-size: 50px;
+    padding: 10px;
 }
 
 table {
     border-collapse: collapse;
+    font-size: 50px;
+    padding: 10px;
 }
 
 td {
