@@ -60,7 +60,7 @@ listItem3.style.display = 'inline-block';
 list.appendChild(listItem3);
   
 
-//by uee for loop
+//by uee for loop table
 let table = document.getElementById('table');
 let rows = 2;
 let cols = 3;
